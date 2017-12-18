@@ -3,7 +3,7 @@ import './App.css'
 import Home from '../Home/Home'
 import
 {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Switch
 }
